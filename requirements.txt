@@ -1,4 +1,4 @@
 pygame>=2.5.2
 customtkinter>=5.2.0
 mutagen>=1.47.0
-
+python>=3.11.6
